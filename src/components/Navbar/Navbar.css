@@ -1,0 +1,19 @@
+nav.navbar{
+    background-color: blueviolet;
+    border: 2px;
+    border-color: black;
+}
+.navbar-brand{
+    font-size: 2rem;
+    margin-left: 2rem;
+    font-weight: bold;
+}
+.nav-item{
+    font-size: 1.5rem;
+    color: white;
+}
+.navbar-text{
+    font-size: 1.5rem;
+    color: white;
+    font-weight: bold;
+}

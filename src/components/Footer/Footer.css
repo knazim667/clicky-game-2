@@ -1,0 +1,11 @@
+.footer{
+    background-color: blueviolet;
+    height: 3rem;
+}
+.container-fluid{
+    text-align: center;
+    padding: 1rem;
+}
+.text{
+    margin-left: 3rem;
+}

@@ -1,0 +1,8 @@
+.container {
+    text-align: center;
+}
+.jumbotron{
+    margin-top: 2rem;
+    margin-bottom: 0;
+    background-color: rgb(225, 80, 230);
+}
